@@ -75,5 +75,6 @@ body {
 
 
 
-.attribution { font-size: 11px; text-align: center; }
+.attribution { background-color: var(--Light-gray);
+    font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
