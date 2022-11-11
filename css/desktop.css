@@ -1,0 +1,5 @@
+.container__card {
+    min-width: 30rem;
+    min-height: 50.05rem;
+    box-shadow: hsla(219, 15%, 55%, 0.363) -3px 10px 20px 0px;
+}
